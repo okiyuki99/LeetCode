@@ -1,5 +1,8 @@
 # LeetCode
 
 * LeetCode Learn
-* LeetCode 60 problems
+* LeetCode problems
+    * database
+    * algorithm
+    * 60 problems
 * LeetCode Systems Design 
